@@ -36,7 +36,8 @@ public static void main(String[] args) {
 
     System.out.println(Arrays.toString(matriz[0]));
     System.out.println(Arrays.toString(matriz[1]));
-
+ 
+    System.out.println();
 
 
 
