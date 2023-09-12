@@ -11,7 +11,7 @@ public class Cliente{
     
 
     public Cliente(){
-        System.out.println("Criando Cliente sem parâmetros");
+    //   System.out.println("Criando Cliente sem parâmetros");
         double aleatorio = Math.random();
         if(aleatorio > 0.5)
             especial = true;
